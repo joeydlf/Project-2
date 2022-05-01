@@ -1,0 +1,45 @@
+
+2022-05-01T05:35:19.383409+00:00 shinyapps[6208551]: Warning: Error in exprFunc: object 'Sales_Data' not found
+2022-05-01T05:35:19.383467+00:00 shinyapps[6208551]:   118: exprFunc
+2022-05-01T05:35:19.383506+00:00 shinyapps[6208551]:   117: widgetFunc
+2022-05-01T05:35:19.383555+00:00 shinyapps[6208551]:   116: ::
+2022-05-01T05:35:19.383614+00:00 shinyapps[6208551]: htmlwidgets
+2022-05-01T05:35:19.383662+00:00 shinyapps[6208551]: shinyRenderWidget
+2022-05-01T05:35:19.383703+00:00 shinyapps[6208551]:   115: func
+2022-05-01T05:35:19.383747+00:00 shinyapps[6208551]:   102: renderFunc
+2022-05-01T05:35:19.383817+00:00 shinyapps[6208551]:    97: renderFunc
+2022-05-01T05:35:19.383784+00:00 shinyapps[6208551]:   101: renderFunc
+2022-05-01T05:35:19.383859+00:00 shinyapps[6208551]:    96: output$Table
+2022-05-01T05:35:19.383903+00:00 shinyapps[6208551]:    15: <Anonymous>
+2022-05-01T05:35:19.384100+00:00 shinyapps[6208551]:     6: eval
+2022-05-01T05:35:19.383962+00:00 shinyapps[6208551]:    13: fn
+2022-05-01T05:35:19.384012+00:00 shinyapps[6208551]:     8: retry
+2022-05-01T05:35:19.384061+00:00 shinyapps[6208551]:     7: connect$retryingStartServer
+2022-05-01T05:35:19.384165+00:00 shinyapps[6208551]:     5: eval
+2022-05-01T05:35:20.383430+00:00 shinyapps[6208551]: Warning: Error in str: object 'Sales_Data' not found
+2022-05-01T05:35:20.383547+00:00 shinyapps[6208551]:   114: renderPrint
+2022-05-01T05:35:20.383495+00:00 shinyapps[6208551]:   115: %>%
+2022-05-01T05:35:20.383599+00:00 shinyapps[6208551]:   113: func
+2022-05-01T05:35:20.383652+00:00 shinyapps[6208551]:    97: renderFunc
+2022-05-01T05:35:20.383696+00:00 shinyapps[6208551]:    96: output$Structure
+2022-05-01T05:35:20.383736+00:00 shinyapps[6208551]:    15: <Anonymous>
+2022-05-01T05:35:20.383823+00:00 shinyapps[6208551]:     8: retry
+2022-05-01T05:35:20.383780+00:00 shinyapps[6208551]:    13: fn
+2022-05-01T05:35:20.383868+00:00 shinyapps[6208551]:     7: connect$retryingStartServer
+2022-05-01T05:35:20.383964+00:00 shinyapps[6208551]:     5: eval
+2022-05-01T05:35:20.383913+00:00 shinyapps[6208551]:     6: eval
+2022-05-01T05:35:21.387163+00:00 shinyapps[6208551]: Warning: Error in group_by: object 'Sales_Data' not found
+2022-05-01T05:35:21.387224+00:00 shinyapps[6208551]:   183: %>%
+2022-05-01T05:35:21.387272+00:00 shinyapps[6208551]:   182: renderPlot [/srv/connect/apps/Proj2/server.R#79]
+2022-05-01T05:35:21.387371+00:00 shinyapps[6208551]:   140: drawPlot
+2022-05-01T05:35:21.387421+00:00 shinyapps[6208551]:   126: <reactive:plotObj>
+2022-05-01T05:35:21.387321+00:00 shinyapps[6208551]:   180: func
+2022-05-01T05:35:21.387563+00:00 shinyapps[6208551]:    96: output$gen
+2022-05-01T05:35:21.387742+00:00 shinyapps[6208551]:     7: connect$retryingStartServer
+2022-05-01T05:35:21.387472+00:00 shinyapps[6208551]:   110: drawReactive
+2022-05-01T05:35:21.387519+00:00 shinyapps[6208551]:    97: renderFunc
+2022-05-01T05:35:21.387606+00:00 shinyapps[6208551]:    15: <Anonymous>
+2022-05-01T05:35:21.387784+00:00 shinyapps[6208551]:     6: eval
+2022-05-01T05:35:21.387646+00:00 shinyapps[6208551]:    13: fn
+2022-05-01T05:35:21.387695+00:00 shinyapps[6208551]:     8: retry
+2022-05-01T05:35:21.387831+00:00 shinyapps[6208551]:     5: eval
