@@ -1,0 +1,14 @@
+name: Proj2
+title: Proj2
+username:
+account: jdelafuente
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6208551
+bundleId: 5856273
+url: https://jdelafuente.shinyapps.io/Proj2/
+when: 1651380992.34548
+lastSyncTime: 1651380992.34548
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R
